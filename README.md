@@ -16,5 +16,6 @@ The database uses SQL Express. It might set up on its own when running the backe
 
 ---
 
-I would've liked to explore concepts such as N-tier architecture and unit testing for this project, but I can't spend more time on it as my dissertation is due in just a few days
+I would've liked to explore concepts such as N-tier architecture and unit testing for this project, but I can't spend more time on it as my dissertation is due in just a few days.
+
 That should cover everything. If you have any issues or questions, please get in touch!
